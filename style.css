@@ -1,0 +1,43 @@
+h1.centro {
+    text-align: center;
+}
+
+div.azul {
+    background-color: blue;
+    color: blue;
+    width: 520px;
+    height: 520px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.rojo {
+    background-color: red;
+    color: red;
+    width: 520px;
+    height: 520px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.amarillo {
+    background-color: yellow;
+    color: yellow;
+    width: 520px;
+    height: 520px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.verde {
+    background-color: green;
+    color: green;
+    width: 1800px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+}
+
+h1.azul2 {
+    background-color: cyan;
+}
